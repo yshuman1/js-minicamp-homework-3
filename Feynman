@@ -1,0 +1,11 @@
+1. Objects: An object is a collection of properties. a property is made up of a name and a value. a properties value can also be a function. if the object has functions as values the function is called a method.
+
+2. Properties:  A property of an object can be explained as a variable that is attached to the object. Object properties are basically the same as ordinary JavaScript variables, except for the attachment to objects. 
+
+3. for in loop: its a for loop that iterates through every key in an object.
+
+4. Dot notation vs bracket notation: its a way to access properties of an object. for example, say you had an object named person and one of the properties was age. you could access the value of the age property in an instance of an object by using dot notation like this: 
+
+lets say you have an instance of person named yasin. you could access the age by using yasin.age
+
+you could access the same value by using bracket notation like this yasin[age]
